@@ -11,8 +11,8 @@
     - [Spaghetti and Meatballs](#spaghetti-and-meatballs)
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
   - [Desserts](#desserts)
-    - [Chocolate Chip Cookies](#chocolate-chip-cookies)
     - [Banana bread](#banana-bread)
+    - [Chocolate Chip Cookies](#chocolate-chip-cookies)
 
 ## Appetizers
 
@@ -72,7 +72,7 @@ List of Ingredients:
 - 2 cups breadsticks
 - 1 jar (24 oz) spaghetti sauce
 
-Instructions:
+Instructions for how to cook:
 
 1. Cook spaghetti according to package instructions.
 2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, and pepper.
@@ -94,9 +94,9 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
-- Cilantro
+- Grounded Cilantro seeds
 
-Instructions:
+Instructions for cooking:
 
 1. Preheat grill to medium-high heat.
 2. Season chicken breasts with salt and pepper and drizzle with olive oil.
@@ -106,6 +106,31 @@ Instructions:
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
 ## Desserts
+### Banana bread
+
+Ingredients:
+
+- 2 1/4 cups all-purpose flour
+- 1 tsp baking soda
+- 1 tsp salt
+- 1 cup unsalted butter, softened
+- 3/4 cup white sugar
+- 3/4 cup brown sugar
+- 2 eggs
+- 2 tsp vanilla extract
+- 4 cups semisweet chocolate chips
+
+Instructions:
+
+1. Preheat oven to 375°F (190°C).
+2. Combine flour, baking soda, and salt in a bowl.
+3. Cream together butter, white sugar, and brown sugar until smooth.
+4. Beat in eggs one at a time, then stir in vanilla.
+5. Gradually blend in the dry ingredients.
+6. Stir in chocolate chips.
+7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
+8. Bake for 8 to 10 minutes or until golden brown.
+9. Cool on wire racks.
 
 ### Chocolate Chip Cookies
 
@@ -133,28 +158,4 @@ Instructions:
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
 
-### Banana bread
 
-Ingredients:
-
-- 2 1/4 cups all-purpose flour
-- 1 tsp baking soda
-- 1 tsp salt
-- 1 cup unsalted butter, softened
-- 3/4 cup white sugar
-- 3/4 cup brown sugar
-- 2 eggs
-- 2 tsp vanilla extract
-- 4 cups semisweet chocolate chips
-
-Instructions:
-
-1. Preheat oven to 375°F (190°C).
-2. Combine flour, baking soda, and salt in a bowl.
-3. Cream together butter, white sugar, and brown sugar until smooth.
-4. Beat in eggs one at a time, then stir in vanilla.
-5. Gradually blend in the dry ingredients.
-6. Stir in chocolate chips.
-7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
-8. Bake for 8 to 10 minutes or until golden brown.
-9. Cool on wire racks.
