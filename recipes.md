@@ -20,7 +20,7 @@
 
 Ingredients List:
 
-- 2 cans (14 oz) artichoke hearts, drained and chopped
+- 1.5 cans (14 oz) artichoke hearts, drained and chopped
 - 1 package (10 oz) frozen chopped spinach, thawed and drained
 - 1 cup mayonnaise
 - 1 cup grated Parmesan cheese
