@@ -72,7 +72,7 @@ List of Ingredients:
 - 2 cups breadsticks
 - 1 jar (24 oz) spaghetti sauce
 
-Instructions for how to cook:
+Cooking Instructions:
 
 1. Cook spaghetti according to package instructions.
 2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, and pepper.
@@ -96,7 +96,7 @@ Ingredients:
 - Mayonnaise
 - Grounded Cilantro seeds
 
-Instructions for cooking:
+Cooking Instructions:
 
 1. Preheat grill to medium-high heat.
 2. Season chicken breasts with salt and pepper and drizzle with olive oil.
@@ -106,6 +106,7 @@ Instructions for cooking:
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
 ## Desserts
+
 ### Banana bread
 
 Ingredients:
@@ -157,5 +158,3 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
-
-
