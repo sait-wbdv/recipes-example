@@ -59,7 +59,7 @@ Instructions:
 
 ### Spaghetti and Meatballs
 
-Ingredients List :
+List of Ingredients:
 
 - 1 pound spaghetti
 - 1 pound ground beef
