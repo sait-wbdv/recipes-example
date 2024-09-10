@@ -18,7 +18,7 @@
 
 ### Spinach and Artichoke Dip
 
-Ingredients:
+List of Ingredients:
 
 - 1 can (14 oz) artichoke hearts, drained and chopped
 - 1 package (10 oz) frozen chopped spinach, thawed and drained
